@@ -1,1 +1,2 @@
 ssss
+[[content/index|index]]
